@@ -25,6 +25,13 @@
         height: 500px;
         padding: 100px;
     }
+    img.slider-img{
+      height:400px !important;
+      width:100%;
+    }
+    .custom-product{
+      height:600px;
+    }
   </style>
 </html>
 
